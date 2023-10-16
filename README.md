@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados
+# Projeto de Análise de Dados - Ajudando o time de marketing à tomar decisões sobre as melhores campanhas.
 
 Nesse repositório se encontra o notebook de um projeto de análise de dados.
 O objetivo desse projeto é ajudar o time de marketing a otimizar suas campanhas. 
