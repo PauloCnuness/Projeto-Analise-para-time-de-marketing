@@ -1,4 +1,5 @@
-# Projeto-priorizando-hipoteses-e-teste-AB
+# Projeto de Análise de Dados
+
 Nesse repositório se encontra o notebook de um projeto de análise de dados.
 O objetivo desse projeto é ajudar o time de marketing a otimizar suas campanhas. 
 
